@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="osmtopdownload:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="osmtopdownload.war">
+      <element id="artifact" artifact-name="osmtopdownload:war exploded" />
+    </root>
+  </artifact>
+</component>
